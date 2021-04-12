@@ -19,7 +19,7 @@
 
 ......
 
-### 线下活动组织
+### [线下活动组织](https://github.com/shaotianw/works/tree/gh-pages/线下活动组织)
 
 **广告推广专**
 
