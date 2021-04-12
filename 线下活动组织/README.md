@@ -1,4 +1,4 @@
-## 线上活动产品化页面：
+## 线下活动产品化页面：
 https://shuyuan.pinduoduo.com/offlineTraining
 
 ## 全国20个线下站点：
