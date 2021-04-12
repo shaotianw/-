@@ -4,4 +4,5 @@
 **- [60s锦囊](https://shuyuan.pinduoduo.com/courseSeries/30)**
 **- [小二说推广](https://shuyuan.pinduoduo.com/courseDetail/752)**
 **- [直播推广](https://shuyuan.pinduoduo.com/courseDetail/629?from=1)**
+**- [引爆活动流量](https://shuyuan.pinduoduo.com/courseDetail/1082)**
 ### 线下活动组织
