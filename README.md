@@ -10,13 +10,17 @@
 **[直播推广系列](https://shuyuan.pinduoduo.com/courseDetail/629?from=1)**
 
 **[智能创意系列](https://shuyuan.pinduoduo.com/courseSeries/11)**
-
 ......
 
 ### 整合营销支持
 
-**[大促主题落地页](https://github.com/shaotianw/works/tree/gh-pages/D)**
+**[大促主题落地页](https://github.com/shaotianw/works/tree/gh-pages/主题落地页)**
 
+**[双十营销案](https://shuyuan.pinduoduo.com/courseDetail/1119)**
+
+**[双十一营销案](https://shuyuan.pinduoduo.com/courseDetail/1155)**
+
+**[双十二营销案](https://shuyuan.pinduoduo.com/courseDetail/1198)**
 ......
 
 ### [线下活动组织](https://github.com/shaotianw/works/tree/gh-pages/线下活动组织)
@@ -28,5 +32,4 @@
 **类目招商会**
 
 **广告沙龙**
-
 ......
