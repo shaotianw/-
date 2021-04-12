@@ -1,6 +1,6 @@
 ## 王劭田部分作品List
-`王劭田在职期间相关作品简介（花名拼多多滴答）`
-### 线上商家运营
+`王劭田在职期间相关作品简介（花名拼多多滴答），因商业保密，展示以图文、视频为主`
+### 商家运营课程
 **[60s锦囊系列](https://shuyuan.pinduoduo.com/courseSeries/30)**
 
 **[小二说推广系列](https://shuyuan.pinduoduo.com/courseDetail/752)**
