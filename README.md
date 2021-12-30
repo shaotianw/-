@@ -1,4 +1,4 @@
-## 王劭田部分作品List
+## 部分作品List
 `王劭田在职期间部分作品简介（花名拼多多滴答），因保密要求以图文、视频为主`
 ### 广告产品课程
 **[官方直播系列](https://shuyuan.pinduoduo.com/courseDetail/752)**  
